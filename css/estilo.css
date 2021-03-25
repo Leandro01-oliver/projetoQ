@@ -1,0 +1,220 @@
+footer {
+    height: auto;
+    background-color: #1C1C1C;
+    box-shadow: 0px 0px 10px 0px #000;
+}
+
+.bg-dark-footer {
+    background-color: #1C1C1C;
+}
+
+.carousel img {
+    height: 92vh;
+}
+
+.card {
+    width: 21.7rem;
+    height: 27rem;
+    border-radius: 20px;
+    border: 4px solid #1DD9FF;
+    box-shadow: 0px 0px 9px 0px #000;
+}
+
+.card:hover {
+    border-radius: 20px;
+    transform: scale(1.05);
+    box-shadow: 0px 0px 15px 0px #000;
+    cursor: pointer;
+    border: 4px solid rgba(0, 0, 0, 0.116);
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-text {
+    text-align: justify;
+}
+
+.card img {
+    border-radius: 15px 15px 0px 0px
+}
+
+hr {
+    height: 3.5px;
+    background-color: #1DD9FF;
+    border-radius: 80px
+}
+
+#about-section1 {
+    background-color: #343a40;
+    height: auto;
+    margin-top: 55px;
+    padding-bottom: 15px;
+    box-shadow: 0px 0px 10px 0px #000;
+    border-radius: 20px;
+}
+
+#about-section2 {
+    background-color: #343a40;
+    height: auto;
+    margin-top: 55px;
+    padding-bottom: 40px;
+    margin-bottom: 55px;
+    box-shadow: 0px 0px 10px 0px #000;
+}
+
+#about-section3 {
+    height: auto;
+    background-color: #343a40;
+    box-shadow: 0px 0px 10px 0px #000;
+    margin-bottom: 55px;
+    border-radius: 20px;
+}
+
+#descriabout1 {
+    padding-top: 45px;
+    color: white;
+    font-size: 19px;
+}
+
+#hrabout {
+    width: 84%;
+    margin-top: 0px;
+}
+
+#about-div-descri {
+    background-color: white;
+    height: auto;
+    padding-top: 22px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+}
+
+#about-div-descri {
+    columns: black;
+    font-size: 18px;
+}
+
+#descriabout1 {
+    text-align: justify;
+}
+
+#hrvalores {
+    width: 50%;
+}
+
+#hrmissao {
+    width: 50%;
+}
+
+#hrinovacao {
+    width: 50%;
+}
+
+#descrivalores1 {
+    margin-top: 20px;
+}
+
+#descrimissao1 {
+    margin-top: 20px;
+}
+
+#descriinovacao1 {
+    margin-top: 20px;
+}
+
+#imagemaboutvalores {
+    height: 80px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+#imagemaboutlinkwhatssap{
+    height: 100px;
+}
+
+#imagemaboutlinkwhatssap:hover{
+  transform: scale(1.4);
+  transition: 1s;
+}
+
+#imagemaboutvalores:hover {
+    transform: scale(1.1);
+    border: 3px solid #1DD9FF;
+    border-radius: 70px;
+    padding-left: 2px;
+    padding-right: 2px;
+    transition: 1s;
+}
+
+#imagemaboutmissao {
+    height: 80px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+#imagemaboutmissao:hover {
+    transform: scale(1.1);
+    border: 3px solid #1DD9FF;
+    border-radius: 70px;
+    padding-left: 2px;
+    padding-right: 2px;
+    transition: 1s;
+}
+
+
+#imagemaboutinovacao {
+    height: 80px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+#imagemaboutinovacao:hover {
+    transform: scale(1.1);
+    border: 3px solid #1DD9FF;
+    border-radius: 70px;
+    padding-left: 2px;
+    padding-right: 2px;
+    transition: 1s;
+}
+
+#about-section3-h5-1{
+    color: white;
+    padding-top: 40px;
+}
+#about-section3-h5-2{
+    color: white;
+    padding-top: 40px;
+}
+
+#about-section3-div-link-img{
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+#about-section3-div-link-fale{
+    padding-top: 29px;
+}
+
+.btn-about-section3-link1{
+    background-color: black;
+    color: white;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 17px;
+    padding-right: 17px;
+    border-radius: 80px;
+    border: 3.5px solid #1DD9FF;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.btn-about-section3-link1:hover{
+    background-color: white;
+    color: black;
+    border: 3.5px solid #000;
+    text-decoration: none;
+    transition: 1.5s;
+    transform: rotateX(350deg);
+}

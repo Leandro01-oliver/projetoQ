@@ -1,0 +1,858 @@
+versla1.0
+about.html:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="css/quemsomos.css">
+	<title>Document</title>
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+		integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+		crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+		integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+		crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+		integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+		crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+		integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+</head>
+
+<body>
+
+	<header>
+		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+			<a class="navbar-brand" href="#"><img src="/imagens/logoQ.png" width="45" height="45" alt=""></a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+				aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarNavDropdown">
+				<ul class="navbar-nav mx-auto">
+					<li class="nav-item ">
+						<a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="/about.html">Quem Somos</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="/selective.html">Processo Seletivo</a>
+					</li>
+
+					<li class="nav-item">
+						<a class="nav-link" href="/contact.html">Contato</a>
+					</li>
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+							data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							Serviços
+						</a>
+						<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+							<a class="dropdown-item" href="/computer.html">Engenharia de Computação</a>
+							<a class="dropdown-item" href="/civil.html">Engenharia Civil</a>
+							<a class="dropdown-item" href="/production.html">Engenharia de Produção</a>
+						</div>
+					</li>
+				</ul>
+				<ul class="navbar-nav justify-content-end">
+					<li class="nav-item">
+						<a class="btn btn-sm btn-warning" href="/login.html">Portal de Membros</a>
+					</li>
+				</ul>
+			</div>
+		</nav>
+	</header>
+
+	<div class="container-fluid" id="div1">
+		<div class="container-fluid" id="div2">
+			<p id="pmod1"><strong> Quem Somos da Qunatum-JR de Engenharias : </strong></p>
+			<hr id="hr1">
+		</div>
+
+		<div class="container-fluid" id="div3">
+			<p id="pmod2">&nbsp Somos um grupo de estudantes da Faculdade Sapiens, e a primeira empresa junior da
+				instituição de ensino de nível superior.&nbspNosso objetivo é por tudo o que aprendemos na faculdade em
+				prática
+				em nossos projetos.&nbspTendo sempre a visão de pensar em como podemos levar nossos serviços a clientes
+				e melhoria de nossos serviços. </p>
+		</div>
+
+	</div>
+
+	<div class="container-fluid divfundo">
+		<p id="descricaotec"><strong>Tecnologias que Utilizamos em nossos projetos :</strong></p>
+		<hr id="hr2">
+		<div class="card-deck" id="reajust">
+			<div class="card">
+				<img class="card-img-top" src="./imagens/logohtml2.png" alt="Imagem de capa do card">
+			</div>
+			<div class="card">
+				<img class="card-img-top" src="./imagens/logocss2.png" alt="Imagem de capa do card">
+			</div>
+			<div class="card">
+				<img class="card-img-top" src="./imagens/logojavascrip2.png" alt="Imagem de capa do card">
+			</div>
+			<div class="card">
+				<img class="card-img-top" src="./imagens/logophp2.png" alt="Imagem de capa do card">
+			</div>
+			<div class="card">
+				<img class="card-img-top" src="./imagens/logoreact2.png" alt="Imagem de capa do card">
+			</div>
+		</div>
+	</div>
+
+<div class="alinhamentocomp">
+	<section class="container">
+		<br>
+		<br>
+		<br>
+		<div class="container">
+			<h6 class="h6valores">Valores</h6>
+			<hr id="linehr1">
+			<p class="valorp1" type="text">
+              <br>* Ética;<br><br>* Responsabilidade;<br><br>* Confiabilidade;<br><br>* Ter liberdade de criatividade; 
+			</p>			 
+		</div>
+
+		<br>
+
+		<div class="container">
+			<h6 class="h6missao">Missão</h6>
+			<hr id="linehr2">
+			  <p class="valorp2" type="text">
+				<br>* levar valor e qualidade  em nossos serviços;<br><br> * Entrega e melhoria de nossos serviços; <br><br>* Retorno de feedback dos cliente aos nossos serviços;
+			  </p>		 
+		</div>
+
+		<br>
+
+		<div class="container">
+			<h6 class="h6inovasao">Inovação</h6>
+			<hr id="linehr3">
+			<p class="valorp1" type="text">
+				<br>Somos uma equipe que buscar ser criativos e ficamos de olho ao que o mercado requer em nossos serviços.
+			  </p>
+			
+		</div>
+
+	</section>
+
+	
+    <div class="container" id="fundofale" >
+        <h2 class="text-center" id="faleh2">Fale Conosco</h2>
+        <hr class="formfale">
+        <form>
+            <div class="form-row">
+                <div class="col">
+                    <input type="text" class="form-control" placeholder="Nome">
+                </div>
+                <div class="col">
+                    <input type="text" class="form-control" placeholder="Email">
+                </div>
+            </div>
+            <div class="form-row my-2">
+                <div class="col">
+                    <input type="text" class="form-control" placeholder="Telefone">
+                </div>
+                <div class="col">
+                    <input type="text" class="form-control" placeholder="Empresa">
+                </div>
+            </div>
+            <div class="form-row my-2">
+                <div class="col">
+                    <textarea class="form-control" placeholder="Mensagem" rows="5"></textarea>
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-lg my-4">Enviar</button>
+        </form>
+    </div>
+
+
+	<footer class="footer py-5 bg-dark-footer">
+		<div class="container text-light">
+			<div class="row">
+				<div class="col-md-6">
+					<h2 class="sobre">Sobre:</h2>
+					<h6 id="h6">
+						&nbspA Quantum Jr foi a primeira Empresa Júnior da Faculdade Sapiens. É uma associação
+						civil sem fins lucrativos, constituída e gerida exclusivamente por alunos.
+					</h6>
+				</div>
+				<div class="col-md-6">
+					<h2 class="divfalecom">Fale Conosco:</h2>
+					<ul class="ul">
+						<li><a class="text-light" href="mailto:quantumjrengenharias@faculdadesapiens.edu.com">
+								<i class="fa fa-envelope" aria-hidden="true"></i>
+								quantumjrengenharias@faculdadesapiens.edu.com</a>
+						</li>
+						<li><a target="_blank" class="text-light"
+								href="https://www.instagram.com/quantumjrengenharias/"> <i class="fab fa-instagram"
+									aria-hidden="true"></i> Instagram</a></li>
+					</ul>
+				</div>
+			</div>
+			<p class="my-4 text-center text-light" id="pcopyrigth">Copyright &copy; Quantum Jr Engenharias</p>
+		</div>
+	</footer>
+</div>
+</body>
+
+</html>
+
+
+about.css:
+
+.form-signin {
+  width: 100%;
+  max-width: 520px;
+  padding: 15px;
+  margin: 0 auto;
+}
+
+.form-signin .checkbox {
+  font-weight: 400;
+}
+
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: 5px;
+}
+
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+}
+
+.form-signin input {
+  display: block;
+  width: 101%;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #495057;
+  border: 3px solid #1DD9FF;
+  background-color: #fff;
+  background-clip: padding-box;
+  border-radius: 1.25rem;
+}
+
+.form-container {
+  position: absolute;
+  background-color: #ebedec;
+  ;
+  padding: 55px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 0px #000;
+  top: 17vh;
+  width: 100%;
+}
+
+.btn-port {
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border: 3.5px solid #1DD9FF;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 1.25rem;
+  margin-top: 1.5vh;
+  width: 100%;
+  color: white;
+  background-color: black;
+}
+
+.btn-port:hover {
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border: 3.5px solid black;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 1.25rem;
+  width: 100%;
+  color: white;
+  background-color: #1DD9FF;
+  transition: 0.45s;
+}
+
+#div1 {
+  margin-top: 35px;
+  background-color: rgb(52, 58, 64);
+  width: 100%;
+  height: 290px;
+  position: absolute;
+  box-shadow: 0px 0px 28px 0px #000;
+}
+
+#div2 {
+  width: 100%;
+  margin-top: 18px;
+  text-align: center;
+  font-size: 9.8px;
+  color: white;
+}
+
+#pmod1 {
+  margin-top: 25px;
+}
+
+#div3 {
+  margin-top: 27px;
+  background-color: white;
+  font-size: 10.5px;
+  height: 58%;
+  padding-top: 15px;
+  text-align: justify;
+  border-radius: 20px;
+  cursor: pointer;
+  border: 3px solid transparent;
+}
+
+#div3:hover {
+  border: 3px solid #1DD9FF;
+  background-color: #000;
+  color: #fff;
+  box-shadow: 0px 0px 28px 0px white;
+}
+
+.divfundo {
+  background-color: rgb(52, 58, 64);
+  margin-top: 380px;
+  position: absolute;
+  height: auto;
+  box-shadow: 0px 0px 28px 0px #000;
+}
+
+#descricaotec {
+  text-align: center;
+  font-size: 15px;
+  color: white;
+  margin-top: 25px;
+}
+
+#reajust {
+  margin-top: 18px;
+}
+
+#hr1 {
+  height: 2.5px;
+  background-color: #1DD9FF;
+  border-radius: 80px
+}
+
+#hr2 {
+  height: 2.5px;
+  background-color: #1DD9FF;
+  border-radius: 80px
+}
+
+.formfale{
+  height: 2.5px;
+  background-color: #1DD9FF;
+  border-radius: 80px
+}
+
+#reajust .card {
+  border-radius: 20px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  border: 4.5px solid transparent;
+  cursor: pointer;
+}
+
+#reajust .card:hover {
+  border: 4.5px solid #1DD9FF;
+  box-shadow: 0px 0px 28px 0px white;
+  transform: scale(1.05);
+}
+
+.footer {
+  margin-top: 50px;
+  background-color: rgb(52, 58, 64);
+  box-shadow: 0px 0px 28px 0px #000;
+}
+
+.sobre {
+  font-size: 19px;
+}
+
+.h6 {
+  font-size: 11px;
+  text-align: justify;
+}
+
+.divfalecom {
+  margin-top: 25px;
+  font-size: 19px;
+}
+
+.ul {
+  margin-left: -31px;
+  font-size: 11px;
+}
+
+#pcopyrigth {
+  font-size: 15px;
+}
+
+
+section {
+  background-color: rgb(52, 58, 64);
+  height: 800px;
+  box-shadow: 0px 0px 28px 0px #000;
+  margin-bottom: 70px;
+}
+
+.h6valores {
+  color: white;
+  text-align: center;
+  display: block;
+}
+
+#linehr1 {
+  height: 1.3px;
+  background-color: #1DD9FF;
+  width: 50%;
+}
+
+.h6missao {
+  color: white;
+  text-align: center;
+  display: block;
+}
+
+#linehr2 {
+  height: 1.3px;
+  background-color: #1DD9FF;
+  width: 50%;
+}
+
+.h6inovasao {
+  color: white;
+  text-align: center;
+  display: block;
+}
+
+#linehr3 {
+  height: 1.3px;
+  background-color: #1DD9FF;
+  width: 50%;
+}
+
+.valorp1 {
+  color: white;
+  text-align: center;
+}
+
+.valorp2 {
+  color: white;
+  text-align: center;
+}
+
+.valorp3 {
+  color: white;
+  text-align: center;
+}
+
+.valorp4 {
+  color: white;
+  text-align: center;
+}
+
+#faleh2{
+  padding-top:25px;
+  color: white;
+}
+
+#fundofale{
+  background-color:rgb(52, 58, 64);
+  box-shadow: 0px 0px 28px 0px #000;
+}
+
+@media(min-width:320px) {
+  #div2 {
+    font-size: 11.4px;
+  }
+  #div3 {
+    font-size: 11.8px;
+  }
+  .divfundo {
+    height: auto;
+  }
+  #descricaotec {
+    font-size: 21px;
+    margin-top: 50px;
+  }
+  #hr2 {
+    width: 80%;
+    margin-top: 25px;
+  }
+ 
+  .alinhamentocomp{
+    margin-top: 2820px;
+  }
+
+}
+
+@media(min-width:360px) {
+  #div2 {
+    font-size: 13.5px;
+  }
+  #div3 {
+    padding-top: 10px;
+    font-size: 12.58px;
+  }
+  .divfundo {
+    height: auto;
+  }
+  #descricaotec {
+    font-size: 21px;
+    margin-top: 50px;
+  }
+  #hr2 {
+    width: 80%;
+    margin-top: 25px;
+  }
+
+
+}
+
+@media(min-width:375px) {
+  #div2 {
+    font-size: 14px;
+  }
+  #div3 {
+    padding-top: 21px;
+    font-size: 12.58px;
+  }
+  .divfundo {
+    height: auto;
+  }
+  #descricaotec {
+    font-size: 21px;
+    margin-top: 50px;
+  }
+  #hr2 {
+    width: 80%;
+    margin-top: 25px;
+  }
+
+
+
+}
+
+@media(min-width:411px) {
+  #div2 {
+    font-size: 13.5px;
+    width: 88%;
+  }
+  #div3 {
+    padding-top: 10px;
+    font-size: 14px;
+  }
+  .divfundo {
+    height: auto;
+  }
+  #descricaotec {
+    font-size: 21px;
+    margin-top: 50px;
+  }
+  #hr2 {
+    width: 80%;
+    margin-top: 25px;
+  }
+
+
+}
+
+@media(min-width:425px) {
+  #div2 {
+    font-size: 14px;
+  }
+  #div3 {
+    padding-top: 27px;
+    font-size: 13px;
+  }
+  .divfundo {
+    height: auto;
+  }
+  #descricaotec {
+    font-size: 21px;
+    margin-top: 50px;
+  }
+  #hr2 {
+    width: 80%;
+    margin-top: 25px;
+  }
+
+
+
+}
+
+@media(min-width:540px) {
+  #div1 {
+    height: 315px;
+  }
+  #div2 {
+    font-size: 18px;
+  }
+  #div3 {
+    padding-top: 23px;
+    font-size: 16px;
+  }
+  .divfundo {
+    height: auto;
+  }
+  #descricaotec {
+    font-size: 21px;
+    margin-top: 50px;
+  }
+  #hr2 {
+    width: 80%;
+    margin-top: 25px;
+  }
+
+}
+
+@media(min-width:568px) {
+  #div1 {
+    height: 315px;
+  }
+  #div2 {
+    font-size: 18px;
+  }
+  #div3 {
+    padding-top: 23px;
+    font-size: 16px;
+  }
+  .divfundo {
+    height: auto;
+  }
+  #descricaotec {
+    font-size: 21px;
+    margin-top: 50px;
+  }
+  #hr2 {
+    width: 80%;
+    margin-top: 25px;
+  }
+
+}
+
+@media(min-width:640px) {
+
+  #div1 {
+    height: 315px;
+  }
+  #div2 {
+    font-size: 18px;
+  }
+  #div3 {
+    padding-top: 23px;
+    font-size: 16px;
+  }
+  .divfundo {
+    height: auto;
+  }
+  #descricaotec {
+    font-size: 21px;
+    margin-top: 50px;
+  }
+  #hr2 {
+    width: 80%;
+    margin-top: 25px;
+  }
+
+ 
+}
+
+@media(min-width:720px) {
+  #div1 {
+    height: 380px;
+  }
+  #div2 {
+    margin-top: 45px;
+    font-size: 19px;
+    height: 50px;
+    padding-bottom: 60px;
+    width: 65%;
+  }
+  #div3 {
+    height: 200px;
+    padding-top: 40px;
+    font-size: 18.5px;
+  }
+  .divfundo {
+    height: auto;
+    margin-top: 450px;
+  }
+  #descricaotec {
+    font-size: 21px;
+    margin-top: 50px;
+  }
+  #hr2 {
+    width: 80%;
+    margin-top: 25px;
+  }
+ 
+}
+
+@media(min-width:768px) {
+  #div1 {
+    height: 380px;
+  }
+  #div2 {
+    margin-top: 45px;
+    font-size: 19px;
+    height: 50px;
+    padding-bottom: 60px;
+    width: 65%;
+  }
+  #div3 {
+    height: 200px;
+    padding-top: 40px;
+    font-size: 18.5px;
+  }
+  .divfundo {
+    height: auto;
+    margin-top: 450px;
+  }
+  #descricaotec {
+    font-size: 21px;
+    margin-top: 20px;
+  }
+  #hr2 {
+    width: 80%;
+    margin-top: 15px;
+  }
+
+
+}
+
+@media(min-width:1024px) {
+  #div1 {
+    height: 350px;
+  }
+  #div2 {
+    margin-top: 28px;
+    font-size: 21px;
+    height: 50px;
+    padding-bottom: 60px;
+    width: 55%;
+  }
+  #div3 {
+    padding-top: 45px;
+    font-size: 20px;
+  }
+  .divfundo {
+    height: auto;
+  }
+  #descricaotec {
+    font-size: 21px;
+    margin-top: 50px;
+  }
+  #hr2 {
+    width: 80%;
+    margin-top: 20px;
+  }
+  .alinhamentocomp{
+    margin-top: 920px;
+  }
+}
+
+@media(min-width:1440px) {
+  #div1 {
+    height: 370px;
+  }
+  #div2 {
+    margin-top: 28px;
+    font-size: 23px;
+    height: 50px;
+    padding-bottom: 60px;
+    width: 38%;
+  }
+  #div3 {
+    padding-top: 47px;
+    font-size: 21px;
+  }
+  #hr1 {
+    width: 100%;
+    margin-top: 20px;
+  }
+  .divfundo {
+    height: auto;
+  }
+  #descricaotec {
+    font-size: 23px;
+    margin-top: 50px;
+  }
+  #hr2 {
+    width: 50%;
+    margin-top: 20px;
+  }
+ 
+
+}
+
+@media(min-width:2560px) {
+  #div1 {
+    height: 350px;
+  }
+  #div2 {
+    margin-top: 28px;
+    font-size: 25px;
+    height: 50px;
+    padding-bottom: 60px;
+    width: 23%;
+  }
+  #div3 {
+    padding-top: 58px;
+    font-size: 22px;
+  }
+  #hr1 {
+    width: 100%;
+    margin-top: 20px;
+  }
+  .divfundo {
+    height: auto;
+  }
+  #descricaotec {
+    font-size: 25px;
+    margin-top: 50px;
+  }
+  #hr2 {
+    width: 50%;
+    margin-top: 20px;
+  }
+
+
+}

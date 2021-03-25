@@ -1,0 +1,8 @@
+1°- contactar:
+Quando o cliente tem o primeiro contato com nosssa equipe da quantum jr, e solicitar um possível projeto para solucionar algum problema de seu dia a dia do seu negócio.
+2°- analise desse contato:
+A sua solcitação passar as mãos da Raquel que sondarar esse cliente, coletando diversos dados importantes para a contrução de seus requisitos e marcarar com o cliente uma reunião .
+3°- Reunião ao cliente:
+Esse reunião estarar presente a Raquel e o time de desenvolvimento da quantum jr, para pegar mais dados para poder solidificar requisitos do escopo do projeto e mostrar ao cliente tudo o que ele pediu vendo se é aquilo mesmo que ele quer.
+4°- contrato:
+Após o cliente aceitar nossa proposta comercial e confirmar tudo o que foi discutido na reunião, esse cliente assinarar toda nossa documentação da proposta comercial e a legal.
